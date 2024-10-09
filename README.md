@@ -2,7 +2,7 @@
 
 ## Dataset Overview
 
-This project focuses on a simulated cattle feedlot dataset. The dataset includes information on individual cattle, such as their weight, age, feed type, and their readiness for market. Additionally, we analyze the optimal amount of feed required for cattle based on various factors. The goal is to use machine learning to predict whether a particular cattle is ready for market and to predict the optimal daily feed amount.
+This project focuses on a simulated cattle feedlot dataset that I created for my own practice. The dataset includes information on individual cattle, such as their weight, age, feed type, and their readiness for market. Additionally, we analyze the optimal amount of feed required for cattle based on various factors. The goal is to use machine learning to predict whether a particular cattle is ready for market and to predict the optimal daily feed amount.
 
 ### Features in the Dataset:
 - **Cattle_ID**: Unique identifier for each cattle.
