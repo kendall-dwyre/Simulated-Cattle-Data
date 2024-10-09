@@ -54,13 +54,3 @@ After running the machine learning model, the following insights were gathered:
 
 This project demonstrates how machine learning can be applied to the cattle industry to predict market readiness based on various feeding and growth factors. By optimizing this process, farmers can make more informed decisions about when cattle are ready for sale, improving overall efficiency and profitability.
 
-## Running the Code
-
-To run this project, you will need:
-1. The dataset (`cattle_feedlot_data.csv`) in the same directory as the Python script.
-2. The Python script for machine learning analysis (`cattle_feedlot_ml_analysis.py`).
-
-You can execute the script as follows:
-
-```bash
-python cattle_feedlot_ml_analysis.py
